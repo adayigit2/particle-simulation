@@ -127,4 +127,5 @@ ani.save('electron_beam_trajectory_1.mp4', writer='ffmpeg', fps=30, dpi = 150)
 plt.show()
 
 
+djghasdkgsd
 
